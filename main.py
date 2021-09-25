@@ -6,7 +6,7 @@ from os import walk
 token="1935203076:AAGJCRpiNJK2yMsv_V7tiDy4IlRVQ_yVPeA"
 #token="1986086924:AAFNbyaH3lHwpIu9H_a_LmOEuqlrIrdKU8M"
 
-delivery=["Москва","Обнинск","РАНХиГС","РЭУ","РНИМУ","Бауманка","1й мед","косыгина","рудн"]
+delivery=["Москва","Обнинск","РАНХиГС","РЭУ","РНИМУ","Бауманка","ПМГМУ","РГУ им. Косыгина","РУДН"]
 
 base_path="catalog/"
 electronic=base_path+"Электронные сигареты/"
