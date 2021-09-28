@@ -123,7 +123,7 @@ def welcome(message):
                                       f"Наши соц.сети, где регулярно проходят акции:\n"
                                       f"Instagram: https://instagram.com/tabachka_777_40?utm_medium=copy_link\n"
                                       f"Делай заказ прямо сейчас, в удобном боте! 👇",
-                     reply_markup=Keyboard_Generator(["/Электронные сигареты"]))
+                     reply_markup=Keyboard_Generator(["/Электронные сигареты","/Жижи"]))
 
 
 @bot.message_handler(content_types=['text'])
